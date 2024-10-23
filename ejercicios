@@ -1,0 +1,64 @@
+/*
+let numeroUno = 5
+let numeroDos = 5
+let numeroTres = 5
+let respuesta
+respuesta = numeroUno + numeroDos + numeroTres
+*/
+/*
+let valorx = 5
+let independiente = 50
+let resultado = 60 
+let x
+let resta = resultado - independiente
+x=resta/valorx
+
+let numero = 5
+let valorDeP = 2.54
+let  conversion = numero*valorDeP
+console.log (conversion)
+*/
+//4. Elaborar un programa para calcular la calificación final de un alumno  teniendo como datos 4 calificaciones parciales
+/*
+let numeroUno = 10
+let numeroDos = 9
+let numeroTres = 5
+let numeroCuatro = 8
+let  promedio = numeroUno + numeroDos + numeroTres + numeroCuatro
+console.log(promedio/4)
+
+let pluma = {
+ color:"Azul"
+ tamaño:"10 cm"
+ material: "plastico"
+}
+consol
+
+console.log("5"*"5")
+
+let generos de musica 
+5 == "5"
+for(let index = 0; index < 100;index++ ){
+  console.log("hola")
+}
+let auto = "bugatti"
+let modelo = 2024
+console,log (auto)con el modelo 
+let numero = 5
+let valorDeP = 0.621371 
+let  conversion = numero*valorDeP
+console.log(conversion)
+
+let numero = 9
+let cuadrado =numero*numero
+console.log (cuadrado)
+let 
+
+let producto = 10
+let cambio = 20 
+let resultado = cambio-producto
+console.log(resultado)
+*/
+
+
+
